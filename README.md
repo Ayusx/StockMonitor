@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-# StockMonitor
-Software Engineering Project
-- - - - -
-
-***Dependencies-*** 
-
-1.python 3.6.8 
-
-2.django 2.1 
-
-3.Crispy forms which can be installed by command  `pip install django-crispy-forms`
-=======
 # StockMonitor    ![Django 2.0.5](https://img.shields.io/badge/Django-2.1-green.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
 
 ## A Webapp to monitor the prices of Stocks.
@@ -42,4 +29,3 @@ Requirements :
     ```
 
 ## Enjoy Monitoring Stocks.
->>>>>>> Updated Readme and Added Requirements file.
