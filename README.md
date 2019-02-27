@@ -1,6 +1,6 @@
 # StockMonitor
 Software Engineering Project
-
+- - - - -
 
 Dependencies - 
 python 3.6.8 ,
