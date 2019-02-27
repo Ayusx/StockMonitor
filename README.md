@@ -1,4 +1,4 @@
-# StockMonitor    ![Django 2.0.5](https://img.shields.io/badge/Django-2.1-green.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
+# StockMonitor    ![Status active](https://img.shields.io/badge/Status-active%20development-2eb3c1.svg) ![Django 2.1.5](https://img.shields.io/badge/Django-2.1.5-green.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)
 
 ## A Webapp to monitor the prices of Stocks.
 
