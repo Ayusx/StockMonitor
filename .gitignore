@@ -1,0 +1,11 @@
+# Virtual Environment
+
+stockenv/
+.stockenv
+.venv
+venv/
+
+# Database
+
+*.sqlite3
+migrations/
